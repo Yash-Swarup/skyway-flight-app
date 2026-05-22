@@ -2,7 +2,7 @@
 
 A production-grade flight management web application built with Next.js 14+, Supabase, Zustand, and Tailwind CSS.
 
-**Live demo:** _Deploy to Vercel and paste URL here_
+**Live demo:** https://skyway-flight-app-six.vercel.app
 
 ---
 
@@ -37,7 +37,7 @@ A production-grade flight management web application built with Next.js 14+, Sup
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/your-username/skyway-flight-app
+git clone https://github.com/Yash-Swarup/skyway-flight-app
 cd skyway-flight-app
 npm install
 ```
