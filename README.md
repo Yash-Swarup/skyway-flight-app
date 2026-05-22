@@ -189,3 +189,7 @@ Set the same env vars (`NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KE
 - **Email confirmation** — Supabase Edge Functions would send a booking confirmation email with the PNR.
 - **Seat map for ATR vs widebody** — the grid adapts between 4-column and 6-column layouts based on `aircraft_type`, but doesn't yet render first/business cabin dividers visually as separate cabin sections on wide screens.
 - **Testing** — I'd add Playwright E2E tests for the full booking flow and Vitest unit tests for the Zustand stores and RPC behaviour.
+
+## Lighthouse Scores
+
+![Lighthouse Scores](./lighthouse.png)
